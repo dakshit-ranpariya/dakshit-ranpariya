@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/dakshit1910" target="blank"><img src="https://img.shields.io/twitter/follow/dakshit1910?logo=twitter&style=for-the-badge" alt="dakshit1910" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/MvMxQ1a.gif">
 
-- 🔭 I’m currently working on **Spring Boot**
+- 🔭 I’m currently working on **Backend Development Projects (Java Spring Boot)**
 
 - 🌱 I’m currently learning **Spring, Hibernate, and Rest APIs**
 
 - 💬 Ask me about **Java, DSA, and Spring Boot**
-
+  
 - 📫 How to reach me **dakshitranpariya00211@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16a67sXNVcL4mFtqGL_vshscJHjAnRuf0/](https://drive.google.com/file/d/16a67sXNVcL4mFtqGL_vshscJHjAnRuf0/)
+- 🤝 Open to Collaborations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
