@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Spring Boot**
 
-- 🌱 I’m currently learning **Spring, Hibernate, Rest API, DBMS, DSA**
+- 🌱 I’m currently learning **Spring, Hibernate, Rest API, DBMS, and DSA**
 
 - 💬 Ask me about **Java DSA, Spring Boot, Rest APIs**
 
